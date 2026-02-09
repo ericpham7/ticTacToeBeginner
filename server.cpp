@@ -135,12 +135,8 @@ int main() {
        {"Access-Control-Allow-Headers", "Content-Type"}});
 
   // Handle OPTIONS requests (CORS preflight)
-  svr.Options("/api/.*", [](const Request &req, Response &res) {
-    res.set_header("Access-Control-Allow-Origin", "http://localhost:3000");
-    res.set_header("Access-Control-Allow-Methods", "GET, POST, OPTIONS");
-    res.set_header("Access-Control-Allow-Headers", "Content-Type");
-    res.status = 200;
-  });
+  svr.Options("/api/.*",
+              [](const Request &req, Response &res) { res.status = 200; });
 
   // Route: GET /api/state - Get current game state
   svr.Get("/api/state", [&game](const Request &req, Response &res) {

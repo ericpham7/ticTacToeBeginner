@@ -1,14 +1,14 @@
 [
 {
-  "directory": "/Users/ericpham/Documents/GitHub/ticTacToeBeginner/build",
-  "command": "/usr/bin/clang++ -g -std=gnu++17 -arch arm64 -o CMakeFiles/tic-tac-toe-console.dir/main.cpp.o -c /Users/ericpham/Documents/GitHub/ticTacToeBeginner/main.cpp",
-  "file": "/Users/ericpham/Documents/GitHub/ticTacToeBeginner/main.cpp",
-  "output": "/Users/ericpham/Documents/GitHub/ticTacToeBeginner/build/CMakeFiles/tic-tac-toe-console.dir/main.cpp.o"
+  "directory": "/Users/ericpham/Desktop/GitHub/ticTacToeBeginner/build",
+  "command": "/usr/bin/clang++ -g -std=gnu++17 -arch arm64 -o CMakeFiles/tic-tac-toe-console.dir/main.cpp.o -c /Users/ericpham/Desktop/GitHub/ticTacToeBeginner/main.cpp",
+  "file": "/Users/ericpham/Desktop/GitHub/ticTacToeBeginner/main.cpp",
+  "output": "/Users/ericpham/Desktop/GitHub/ticTacToeBeginner/build/CMakeFiles/tic-tac-toe-console.dir/main.cpp.o"
 },
 {
-  "directory": "/Users/ericpham/Documents/GitHub/ticTacToeBeginner/build",
-  "command": "/usr/bin/clang++ -I/Users/ericpham/Documents/GitHub/ticTacToeBeginner -g -std=gnu++17 -arch arm64 -o CMakeFiles/tic-tac-toe-server.dir/server.cpp.o -c /Users/ericpham/Documents/GitHub/ticTacToeBeginner/server.cpp",
-  "file": "/Users/ericpham/Documents/GitHub/ticTacToeBeginner/server.cpp",
-  "output": "/Users/ericpham/Documents/GitHub/ticTacToeBeginner/build/CMakeFiles/tic-tac-toe-server.dir/server.cpp.o"
+  "directory": "/Users/ericpham/Desktop/GitHub/ticTacToeBeginner/build",
+  "command": "/usr/bin/clang++ -I/Users/ericpham/Desktop/GitHub/ticTacToeBeginner -g -std=gnu++17 -arch arm64 -o CMakeFiles/tic-tac-toe-server.dir/server.cpp.o -c /Users/ericpham/Desktop/GitHub/ticTacToeBeginner/server.cpp",
+  "file": "/Users/ericpham/Desktop/GitHub/ticTacToeBeginner/server.cpp",
+  "output": "/Users/ericpham/Desktop/GitHub/ticTacToeBeginner/build/CMakeFiles/tic-tac-toe-server.dir/server.cpp.o"
 }
 ]

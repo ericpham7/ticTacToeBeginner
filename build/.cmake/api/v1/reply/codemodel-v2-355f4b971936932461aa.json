@@ -1,0 +1,70 @@
+{
+	"configurations" : 
+	[
+		{
+			"abstractTargets" : [],
+			"directories" : 
+			[
+				{
+					"build" : ".",
+					"jsonFile" : "directory-.-Debug-9ad1a58d4644cf6543fa.json",
+					"minimumCMakeVersion" : 
+					{
+						"string" : "3.10"
+					},
+					"projectIndex" : 0,
+					"source" : ".",
+					"targetIndexes" : 
+					[
+						0,
+						1
+					]
+				}
+			],
+			"name" : "Debug",
+			"projects" : 
+			[
+				{
+					"directoryIndexes" : 
+					[
+						0
+					],
+					"name" : "TicTacToe",
+					"targetIndexes" : 
+					[
+						0,
+						1
+					]
+				}
+			],
+			"targets" : 
+			[
+				{
+					"directoryIndex" : 0,
+					"id" : "tic-tac-toe-console::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-tic-tac-toe-console-Debug-945154d670c98344aedc.json",
+					"name" : "tic-tac-toe-console",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 0,
+					"id" : "tic-tac-toe-server::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-tic-tac-toe-server-Debug-4bb2b02ea9155cdb7a1c.json",
+					"name" : "tic-tac-toe-server",
+					"projectIndex" : 0
+				}
+			]
+		}
+	],
+	"kind" : "codemodel",
+	"paths" : 
+	{
+		"build" : "/Users/ericpham/Desktop/GitHub/ticTacToeBeginner/build",
+		"source" : "/Users/ericpham/Desktop/GitHub/ticTacToeBeginner"
+	},
+	"version" : 
+	{
+		"major" : 2,
+		"minor" : 9
+	}
+}
